@@ -1,4 +1,4 @@
-Algorithms and Data Structures
+# Algorithms and Data Structures
 
 ## Introduction to Algorithms
 - What is an Algorithm?
